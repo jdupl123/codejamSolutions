@@ -1,0 +1,733 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"imp",
+				"impulse"
+			],
+			[
+				"ser",
+				"serline"
+			],
+			[
+				"plt",
+				"pltTime"
+			],
+			[
+				"rea",
+				"release"
+			],
+			[
+				"dr",
+				"drfunc"
+			],
+			[
+				"va",
+				"valSem"
+			],
+			[
+				"thread",
+				"threading"
+			],
+			[
+				"CRC",
+				"CRC1"
+			],
+			[
+				"0x",
+				"0xFFFF"
+			],
+			[
+				"s",
+				"sys"
+			],
+			[
+				"f",
+				"for	For Loop"
+			],
+			[
+				"en",
+				"energlis"
+			],
+			[
+				"energ",
+				"energyHours"
+			],
+			[
+				"get",
+				"getTotalData"
+			],
+			[
+				"week",
+				"weekendenergydatalist"
+			],
+			[
+				"wee",
+				"weekendenergydatalist"
+			],
+			[
+				"ene",
+				"energy"
+			],
+			[
+				"py",
+				"pyplot"
+			],
+			[
+				"pr",
+				"processfile"
+			],
+			[
+				"re",
+				"readWriteCsv"
+			],
+			[
+				"proc",
+				"processcsv"
+			],
+			[
+				"max",
+				"maxenerg"
+			],
+			[
+				"min",
+				"minenerg"
+			],
+			[
+				"mi",
+				"minelec"
+			],
+			[
+				"ma",
+				"maxelec"
+			],
+			[
+				"ln",
+				"lnlist"
+			],
+			[
+				"line",
+				"line1"
+			],
+			[
+				"agn",
+				"angList"
+			],
+			[
+				"pl",
+				"plot"
+			],
+			[
+				"sin",
+				"sincounter"
+			],
+			[
+				"moo",
+				"moonlist"
+			],
+			[
+				"d",
+				"diff"
+			],
+			[
+				"diff",
+				"diffList"
+			],
+			[
+				"an",
+				"angle"
+			],
+			[
+				"angl",
+				"angle"
+			],
+			[
+				"ang",
+				"angList"
+			],
+			[
+				"y",
+				"ylist"
+			],
+			[
+				"x",
+				"xlist"
+			],
+			[
+				"in",
+				"invcount"
+			],
+			[
+				"mre",
+				"megredList"
+			],
+			[
+				"mer",
+				"megredList"
+			],
+			[
+				"star",
+				"startCommands"
+			],
+			[
+				"tex",
+				"TeXlive"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "milkshakes/Program.cs",
+			"settings":
+			{
+				"buffer_size": 4433,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "milkshakes/bin/Debug/B-small-practice.in",
+			"settings":
+			{
+				"buffer_size": 30598,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "milkshakes/bin/Debug/B-small-practice.out",
+			"settings":
+			{
+				"buffer_size": 1963,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/pyton2.7.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 483.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Jd/Documents/Visual Studio 2015/Projects/milkshakes",
+		"/C/Users/Jd/Documents/Visual Studio 2015/Projects/milkshakes/milkshakes"
+	],
+	"file_history":
+	[
+		"/C/Users/Jd/Documents/Visual Studio 2015/Projects/milkshakes/milkshakes/bin/Debug/B-large-practice.in",
+		"/C/Users/Jd/Documents/Visual Studio 2015/Projects/milkshakes/milkshakes/bin/Debug/B-small-practice.out",
+		"/C/Program Files (x86)/Microsoft Visual Studio 14.0/Common7/Tools/vsvars32.bat",
+		"/C/Program Files (x86)/Microsoft Visual Studio 14.0/Common7/Tools/vsvars32",
+		"/C/Users/Jd/AppData/Roaming/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/C/Users/Jd/Documents/Visual Studio 2015/Projects/milkshakes/ms.sublime-project",
+		"/C/Users/Jd/Dropbox/Gerrit Project/control code/ControlProject3-4.bas",
+		"/C/Users/Jd/Dropbox/Gerrit Project/testing/mikegpsprocedure",
+		"/C/Users/Jd/Dropbox/Gerrit Project/testing/movieMaker.py",
+		"/C/Users/Jd/Dropbox/Gerrit Project/testing/movietest.py",
+		"/C/Users/Jd/Dropbox/Gerrit Project/testing/timerobj.py",
+		"/C/Users/Jd/Dropbox/Gerrit Project/testing/pidTuner.py",
+		"/C/Users/Jd/Dropbox/Gerrit Project/testing/dataRecorder.py",
+		"/C/Users/Jd/Dropbox/Gerrit Project/testing/serialwriter.py",
+		"/C/Users/Jd/Dropbox/Gerrit Project/plotting/singleContPlotSerial.py",
+		"/C/Users/Jd/Dropbox/Gerrit Project/testing/testrecording.txt",
+		"/C/Users/Jd/Dropbox/Gerrit Project/testing/sincosplt.py",
+		"/C/Users/Jd/Dropbox/Gerrit Project/code/GPS_MB100.bas",
+		"/C/Users/Jd/Dropbox/Gerrit Project/testing/mplbuttons.py",
+		"/C/Users/Jd/AppData/Local/Temp/Temp1_Bohua_1_0.zip/milk.cpp",
+		"/C/Users/Jd/Dropbox/Gerrit Project/plotting/contplot.py",
+		"/C/Users/Jd/Dropbox/Gerrit Project/code/TigerBlack_SP.BAS",
+		"/C/Users/Jd/Dropbox/Gerrit Project/CheckNMEA.bas",
+		"/C/Users/Jd/Desktop/temp.py",
+		"/C/Users/Jd/Dropbox/Gerrit Project/failures.txt",
+		"/C/Users/Jd/Dropbox/Gerrit Project/writeToJTAG.bat",
+		"/C/Users/Jd/AppData/Local/Temp/Temp1_avrstudio62firmware.zip/avrstudio62firmware/Readme.txt",
+		"/C/Users/Jd/Dropbox/Gerrit Project/20may2014_2.txt",
+		"/C/Users/Jd/Desktop/test.py",
+		"/C/Users/Jd/Dropbox/Gerrit Project/20may2014.txt",
+		"/C/Users/Jd/Dropbox/Gerrit Project/plotting/data/test1434022068.txt",
+		"/C/Users/Jd/Dropbox/pswd",
+		"/C/Users/Jd/Dropbox/beck-jaco/Academic stuff/jacoLatexResume/resume_TrademarkVision2015.tex",
+		"/C/Users/Jd/Dropbox/Gerrit Project/control code/ControlProject3.4",
+		"/C/Users/Jd/Dropbox/Gerrit Project/control code/ControlProjectcabcode1-0.bas",
+		"/C/Users/Jd/Desktop/delme.py",
+		"/C/Users/Jd/Dropbox/Gerrit Project/control code/ControlProject3.3.bas",
+		"/C/Users/Jd/Dropbox/Gerrit Project/control code/ControlProject3.3.hex",
+		"/C/Users/Jd/Dropbox/Gerrit Project/ControlProject3.3.bas",
+		"/C/Users/Jd/Dropbox/Gerrit Project/spray boom Agrifac.vsm",
+		"/C/Users/Jd/Dropbox/Gerrit Project/ControlProject3.1.bas",
+		"/C/Users/Jd/Dropbox/links/links",
+		"/C/Users/Jd/Documents/data/procmetadata.py",
+		"/C/Users/Jd/Documents/webdev/flipboard/app.js",
+		"/C/Users/Jd/Dropbox/thesis/Thesis/thesis/Thesis.tex",
+		"/C/Users/Jd/Documents/data/document_clustering.py",
+		"/C/Users/Jd/Downloads/will-ockenden-metadata.csv",
+		"/C/Users/Jd/Dropbox/beck-jaco/business stuff/stcatalyst",
+		"/C/Users/Jd/Documents/webdev/webframeworks",
+		"/C/Users/Jd/Documents/webdev/news/app.js",
+		"/C/Users/Jd/Documents/webdev/news/style,css",
+		"/C/Users/Jd/Desktop/DSL-2730B_A1_Firmware_v1.02_06062012/DSL-2730B_1.02_06062012_cfe_fs_kernel",
+		"/C/Users/Jd/Documents/y4/feedback",
+		"/C/Users/Jd/Desktop/crap.py",
+		"/C/Users/Jd/Documents/hackathon/f=open().py",
+		"/C/Users/Jd/Documents/data/hackathon1.0/hackathon/2013 Townsville aggregated p g a c b s.csv",
+		"/C/Users/Jd/Documents/data/hackathon1.0/hackathon/townsvile.csv",
+		"/C/Users/Jd/Documents/data/hackathon1.0/hackathon/pdffitting.py",
+		"/C/Users/Jd/Documents/data/hackathon1.0/hackathon/observation_data.csv",
+		"/C/Users/Jd/Documents/web/pseudoclass.css",
+		"/C/Users/Jd/Documents/web/pseudoclass.html",
+		"/C/Users/Jd/Documents/web/csstut.html",
+		"/C/Users/Jd/Documents/web/style1.css",
+		"/C/Users/Jd/Documents/web/tut2.html",
+		"/C/Users/Jd/Documents/web/tut2.css",
+		"/C/Users/Jd/Dropbox/Gerrit Project/plotting/test1434021825.txt",
+		"/C/Users/Jd/Dropbox/Gerrit Project/plotting/test1434021748.txt",
+		"/C/Users/Jd/Dropbox/Gerrit Project/plotting/test1434021715.txt",
+		"/C/Users/Jd/Dropbox/Gerrit Project/plotting/test_commemi1.py",
+		"/C/Users/Jd/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Jd/Dropbox/Gerrit Project/plotting/testplot.py",
+		"/C/Users/Jd/AppData/Roaming/Sublime Text 3/Packages/User/pyton2.7.sublime-build",
+		"/C/Users/Jd/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/LaTeX.sublime-build",
+		"/C/Program Files/Sublime Text 3/Packages/Python.sublime-package",
+		"/C/Users/Jd/Documents/algorithms/mergeSort.py",
+		"/C/Users/Jd/Dropbox/beck-jaco/Academic stuff/jacoLatexResume/resume_John_Deere2015.tex",
+		"/C/Users/Jd/Dropbox/Gerrit Project/ControlProject3.0.bas",
+		"/C/Users/Jd/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Jd/Dropbox/Gerrit Project/ControlProject2-0+avg.bas",
+		"/C/Users/Jd/Dropbox/Gerrit Project/ControlProject2-0.bas",
+		"/C/Users/Jd/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Jd/Dropbox/beck-jaco/Academic stuff/jacoLatexResume/imc_coverletter_2015.tex",
+		"/C/Users/Jd/Dropbox/beck-jaco/Academic stuff/jacoLatexResume/resume_imc_dev2015.tex",
+		"/C/Users/Jd/Dropbox/beck-jaco/Academic stuff/jacoLatexResume/resume_Honeywell2015.tex",
+		"/C/Users/Jd/Dropbox/beck-jaco/Academic stuff/gradapps/all jerbs",
+		"/C/Users/Jd/Dropbox/car/goviacc",
+		"/C/Users/Jd/Dropbox/beck-jaco/travel/Contacts",
+		"/C/Users/Jd/Dropbox/beck-jaco/Academic stuff/jacoLatexResume/letter_template.tex",
+		"/C/Users/Jd/Dropbox/beck-jaco/Academic stuff/jacoLatexResume/jacocv2015.tex",
+		"/C/Users/Jd/AppData/Local/Diagnostics/460911090/2015032906.000/9D140B76-EA58-4550-A0D1-127A010E14AD.Diagnose.0.etl",
+		"/C/Users/Jd/Downloads/latexresumeexample/cv_11.tex",
+		"/C/Users/Jd/Dropbox/beck-jaco/Academic stuff/jacoLatexResume/cv_11.tex",
+		"/C/Users/Jd/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/README.markdown",
+		"/C/Users/Jd/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/Default (Windows).sublime-keymap",
+		"/C/Users/Jd/AppData/Roaming/Sublime Text 3/Packages/LaTeXTools/jumpToPDF.py",
+		"/C/Users/Jd/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+		"/C/Users/Jd/Dropbox/videoGames.tex",
+		"/C/Users/Jd/Dropbox/book/Book.tex",
+		"/C/Users/Jd/AppData/Local/Temp/Temp1_latexmk-443a.zip/latexmk/README",
+		"/C/Users/Jd/Dropbox/concepts/perswasive presentation.txt"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"160",
+			"125",
+			"Tempmoon",
+			"220",
+			"0",
+			"pltTime",
+			"savButAx",
+			"pidButAx",
+			"pidTest",
+			"pidTestButton",
+			"pidButAx",
+			"Button",
+			"button",
+			"'",
+			"ser",
+			"fig",
+			"adcarr",
+			"serSem.release()",
+			"ylist",
+			"print",
+			"()\n",
+			"reset",
+			"kp",
+			"pidax",
+			"event",
+			"semaphore",
+			"a0",
+			"amp",
+			"sk",
+			"skd",
+			"samp",
+			"sfreq",
+			"freq",
+			"axarr",
+			"l1",
+			"Readchar",
+			"gps",
+			"charCount",
+			"gps",
+			"gpscont",
+			"memcopy",
+			"Ambiguity",
+			"strGPSArr",
+			"checksum",
+			"strGPSArr",
+			"inkey",
+			"btemp",
+			"strGPSHeader",
+			"DecodeNMEA",
+			"bChrCount",
+			"bGPSIn",
+			"Serialcharwaiting",
+			"bmsgflag",
+			"NoGPSEntry",
+			"bGPSIn",
+			"bChrCount",
+			"inkey",
+			"cNMEALenX1",
+			"strGPSIn",
+			"inkey",
+			"read",
+			"differential",
+			"If",
+			"if",
+			"If",
+			"kd",
+			"Kd",
+			"kd",
+			"Kd",
+			"$data",
+			"$eeprom",
+			"$",
+			"Eserialnumber",
+			"\"$eeprom\"",
+			"eeprom",
+			"\\$eeprom",
+			"$eeprom",
+			"$EEPROM",
+			"eeprom",
+			"eUnitType",
+			"eeprom",
+			"portb.2",
+			"auto",
+			"portb.2",
+			"Auto",
+			"ControlOutput",
+			"Pashdiv",
+			"Desmoonlevel",
+			"Tempmoon",
+			"Readchar",
+			"Thetdesired",
+			"Desiredmoon",
+			"Desmoonlevel",
+			"Serialcharwaiting",
+			"Desiredmoon",
+			"Moonlevel",
+			"ambgCounter",
+			"CRC1",
+			"crc1",
+			"\n",
+			"pin",
+			"portb",
+			",",
+			"bwd",
+			"ounter",
+			"Long",
+			"Longpitch",
+			"Myoutput1",
+			"Output",
+			"'-----------------------------------------------------------------------------------------\n\n'name                     : ControlProject\n\n'purpose                  : Control code for gerrit control project. includes intergral term and \n'                           has been converted to suite 644p.\n\n'micro                    : atmega644p\n\n'suited for demo          : not tested yet\n\n'workrequired\n'   - detect gps drop out i.e. no gps message if time greater than x switch to agrifac controller\n'   - detect ambiguity drop out if time greater than x switch to agrifac controller\n'   - implement com changes (make appropriate to talk to cab board)\n'   - for coms send two messages next time in serial section check for ok response or send again.\n'   - implement check to make \n\n'-----------------------------------------------------------------------------------------\n\n$regfile = \"m644pdef.dat\"\n$crystal = 7372000 'clock speed\n\n'setup serial'\n$baud = 38400\n$baud1 = 115200\nconfig Com2 = Dummy , Synchrone = 0 , Parity = None , Stopbits = 1 , Databits = 8 , Clockpol = 0\nconfig Serialin = Buffered , Size = 100\nconfig Serialin1 = Buffered , Size = 20\nOpen \"com2:\" For Binary As #1   ' we can now print to com to via print #1\n\n'setup adc\nconfig Adc = Single , Prescaler = Auto\nStart Adc\n\n'adc pins\nconfig pina.3 = Input\nconfig pina.4 = Input\n\n'pwm lines\nconfig pind.4 = output\nconfig pind.5 = output\n\n'relay for switching to agrifac control\nconfig pinb.2 = output\n\n'declare helper functions\nDeclare Function Read_pashr_string() As Byte\nDeclare Function  Read_adc() As word\n\n'global vars\n'adc vars\nDim Adcreturn As Word\n'pashr vars\nDim Pitch As Single,\nDim Maincounter As word, Kp As Single , Ambiguity As Integer\nDim Longpitch As Long , Myoutput1 As Long\nDim Pashrcounter As Long , Mooncounter As Long , Auto As Byte , Desiredmoon As Long , Serialcharwaiting As Byte , Desmoonlevel As Long\nDim Thetdesired As Single , Serialcount As Long , Readchar As Byte , Tempmoon As Long\nDim Moonlevel As Integer\nDim Pashreturn As Byte , Output As Single , Pashdiv As Single , Dif As Single , OldPitch As Single , Kd As Single, controlErrorSum as Single\nDim SetPoint as single, IntergralTerm as single\nDim Pitchaverage As Single , Averagetc As Single , Stemp As Single\n\n'7372000/64/255 timer0 count rate 255 is for overflow\n'2.22 ms per tick\nConfig Timer0 = Timer , Prescale = 64 , Compare_a = Disconnect, Compare_b = Disconnect\nConfig Timer1 = Pwm , Pwm = 8 , Compare_a_pwm = Clear_up , Compare_b_pwm = Clear_up , Prescale = 256\nEnable Timer0\nEnable Timer1\nEnable Ovf0\nOn Ovf0 Tim0_isr\n\nCompare1a = 0\nCompare1b = 0\n'----intitialization'\nAuto = 0\nSerialcount = 0\nThetdesired = 0\nMaincounter = 0\nMooncounter = 0\nPashrcounter = 0\nSerialcount = 0\nDesmoonlevel = 563\nDesiredmoon = Desmoonlevel\nKp = 90\nKd = 300.0\nki = 1.0\nAveragetc = 5.0\nAmbiguity = 1\ncontrolErrorSum = 0.0\nEnable Interrupts\nDo\n\n    If Maincounter = 65534 Then\n        Maincounter = 0\n        Mooncounter = 0\n        Pashrcounter = 0\n        Serialcount = 0\n    End If\n    If Maincounter > Mooncounter Then\n        Adcreturn = Adcreturn()\n        'Print #1 , Desiredmoon\n        'comp b increases moon angle\n        If Desiredmoon > 750 Then\n            Desiredmoon = 750\n        Elseif Desiredmoon < 250 Then\n            Desiredmoon = 250\n        End If\n\n\n\n        If Adcreturn < 50 Then                              'machine off\n            Compare1a = 0\n            Compare1b = 0\n\n        Elseif Adcreturn > Desiredmoon Then\n            'decrease half moon\n            Tempmoon = Adcreturn - Desiredmoon\n            'Tempmoon = Tempmoon / 2\n            Tempmoon = Tempmoon + 35\n            If Tempmoon >= 180 Then\n               Tempmoon = 180\n            Elseif Tempmoon < 0 Then\n               Tempmoon = 0\n            End If\n            Compare1a = Tempmoon\n            Compare1b = 0\n        Elseif Adcreturn < Desiredmoon Then\n            'increase half moon\n            Tempmoon = Desiredmoon - Adcreturn\n            'Tempmoon = Tempmoon/2\n            Tempmoon = Tempmoon + 35\n            If Tempmoon >= 180 Then\n               Tempmoon = 180\n            Elseif Tempmoon < 0 Then\n               Tempmoon = 0\n            End If\n\n            Compare1a = 0\n            Compare1b = Tempmoon\n        Else\n            Compare1a = 0\n            Compare1b = 0\n        End If\n        Mooncounter = Maincounter + 9 ' this equals aprox 20ms\n    End If\n\n    If Maincounter > Pashrcounter Then\n        'Print #1 , \"hello\"\n        ' Blah = My_echo()\n        Pashreturn = 0\n        Pashreturn = Read_pashr_string()\n        If Pashreturn = 1 Then\n            Print #1 , Pitch\n        End If\n        If Auto = 1 Then\n            'Print #1 , \"arrctr\" ; Arrcounter\n\n            If Ambiguity = 0 And Pashreturn = 1 Then\n                'Pitchaverage = Pitchaverage * Averagetc     'scale current average up by a constant\n                'Pitchaverage = Pitchaverage + Pitch         'add on new value\n                'Stemp = Averagetc + 1.0                     'compute timeconstant + 1\n                'Pitchaverage = Pitchaverage / Stemp         'new value of pitch\n\n                'pitch = 0.5 * pitch\n                Dif = Pitch - OldPitch\n                Dif = Dif * Kd\n                'Dif = Abs(dif)\n                If OldPitch = 0 Then\n                    Dif = 0\n                End If\n                Output = Pitch - SetPoint \n                if Output > 0.2 then\n                    controlErrorSum = controlErrorSum + Output\n                end if\n                IntergralTerm = ki * controlErrorSum \n                if IntergralTerm > 30 then\n                    IntergralTerm = 30\n                elseif IntergralTerm < -30 then\n                    IntergralTerm = -30\n                endif\n                Output = Output * Kp\n                Output = Output + Dif\n                Output = Output + IntergralTerm\n                Output = Output + Desmoonlevel\n                Desiredmoon = Output\n                OldPitch = Pitch\n            Elseif Ambiguity = 0\n                \n            End If\n        End If\n        If Pashreturn = 0 Then 'nothing found so check again soon\n            Pashrcounter = Maincounter + 9 ' approx every 20ms\n        Else 'we read a pitch string so we can expect the next one in around 200ms\n            Pashrcounter = Maincounter + 90 'aprox 200ms\n        End If\n    End If\n\n   'Echoreturn = My_echo()\n   'Insert Some Serial Stuff Here For Automode Etc\n\n    If Maincounter > Serialcount Then\n        Serialcharwaiting = Ischarwaiting(#1)\n        If Serialcharwaiting = 1 Then\n            Readchar = Inkey(#1)\n            If Readchar = int(a) Then                        'a\n                Auto = 1\n            Elseif Readchar = 109 Then                      'm\n                Auto = 0\n                Desiredmoon = Desmoonlevel\n            Elseif Readchar = 114 Then                      'r\n                Auto = 0\n                Desiredmoon = Moonlevel\n            Elseif Readchar = 106 Then                      'j\n                Desiredmoon = Desiredmoon - 10\n                Print #1 , Desiredmoon\n            Elseif Readchar = 107 Then                      'k\n                Desiredmoon = Desiredmoon + 10\n                Print #1 , Desiredmoon\n            Elseif Readchar = 120 Then                      'x\n                Kp = Kp + 1.0\n                Print #1 , Kp\n            Elseif Readchar = 122 Then                      'z\n                Kp = Kp - 1.0\n                Print #1 , Kp\n            Elseif Readchar = 100 Then                      'd\n                Kd = Kd + 1.0\n                Print #1 , Kd\n            Elseif Readchar = 102 Then                      'f\n                Kd = Kd - 1.0\n                Print #1 , Kd\n            Elseif Readchar = 99 Then                       'c\n                Print #1 , Adcreturn\n            Elseif Readchar = 98 Then                       'b\n                Print #1 , Ambiguity\n            End If\n        End If\n        Serialcount = Maincounter + 90\n    End If\n\nLoop\n\nEnd\n\nTim0_isr:\nMaincounter = Maincounter + 1\nReturn\n\n\n\n\nFunction Read_adc()\n    Local adc1 as word, adc2 as Word, diff as word, avg as word\n    adc1 = Getadc(3) ' read from first pot\n    adc2 = Getadc(4) ' read from second pot\n\n    if adc2 > adc1 then\n        diff = adc2 - adc1\n    elseif adc1 < adc1 then\n        diff = adc1 - adc2\n    else\n        diff = 0\n    end IF\n\n    if diff > 25 then 'diff must not be greater than 10% of 255\n        'switch to agrifac\n        print #1, \"the two pots dont agree\"\n    End If\n\n    avg = adc1 + adc2 'overflow is not an issue since both are 10 bit numbers and word is 16 bit\n    avg = avg / 2\n    Read_adc = avg\nEnd Function\n\n\n'example string '$PASHR,ATT,195120.80,100.62686,0.58669,,0.0034,0.0012,0*0C\nFunction Read_pashr_string()\n    'Print #1 , 5\n    ' I is comma counter, K is string building iterator\n    Local Serialchar As Byte , I As Integer , K As Integer , Tempstr_p As String * 50\n\n    Read_pashr_string = 0\n    If Ischarwaiting() = 1 Then\n        While Ischarwaiting() = 1\n            Serialchar = Inkey()\n            If Serialchar = 36 Then                             '$\n                Tempstr_p = String(50 , 0)\n                I = 0\n                K = 1\n                Waitms 10\n            Elseif Serialchar = 44 Then                         'comma\n            ' Increment comma position\n                I = I + 1\n            Elseif I = 4 Then\n                ' Add to Pitch value\n                Mid(tempstr_p , K , 1) = Chr(serialchar)\n                K = K + 1\n            Elseif I = 8 Then                               ' remember to leave out the newline\n                ' Add to Ambiguity value\n                Ambiguity = Val(serialchar)\n                I = I + 1\n            End If\n        Wend\n        'Convert  Pitch strings to single\n        Pitch = Val(tempstr_p)                              'this may rarely equal to 0\n        Read_pashr_string = 1\n    end  IF\nEnd Function",
+			"Output",
+			"ErrorSum",
+			"20",
+			"ErrorSum",
+			"OldError",
+			"Myoutput",
+			"Old",
+			"Compare3",
+			"Timer3",
+			"Dollarflag",
+			"Tempstr_p",
+			"Serialchar",
+			"Mytogle",
+			"Tempcounter",
+			"128",
+			"1024",
+			"Config",
+			"C"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "milkshakes/Program.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4433,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "milkshakes/bin/Debug/B-small-practice.in",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30598,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								127,
+								127
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "milkshakes/bin/Debug/B-small-practice.out",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1963,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1963,
+								1963
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 191.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ms.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

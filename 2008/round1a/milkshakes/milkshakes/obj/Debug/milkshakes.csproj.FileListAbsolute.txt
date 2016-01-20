@@ -1,0 +1,6 @@
+c:\users\jd\documents\visual studio 2015\Projects\milkshakes\milkshakes\bin\Debug\milkshakes.exe.config
+c:\users\jd\documents\visual studio 2015\Projects\milkshakes\milkshakes\obj\Debug\milkshakes.csprojResolveAssemblyReference.cache
+c:\users\jd\documents\visual studio 2015\Projects\milkshakes\milkshakes\bin\Debug\milkshakes.exe
+c:\users\jd\documents\visual studio 2015\Projects\milkshakes\milkshakes\bin\Debug\milkshakes.pdb
+c:\users\jd\documents\visual studio 2015\Projects\milkshakes\milkshakes\obj\Debug\milkshakes.exe
+c:\users\jd\documents\visual studio 2015\Projects\milkshakes\milkshakes\obj\Debug\milkshakes.pdb
